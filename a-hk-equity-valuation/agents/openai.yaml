@@ -1,0 +1,4 @@
+interface:
+  display_name: "A/HK Equity Valuation"
+  short_description: "Research A/HK equities with modular lenses."
+  default_prompt: "Use $a-hk-equity-valuation to analyze this A-share or Hong Kong listed company with current public data, estimate expected return, and apply the right specialist lens if needed."
